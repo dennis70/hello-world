@@ -1,2 +1,2 @@
 # hello-world
-# This is a test to see if I cana get a handle of git
+# This is a test to see if I can get a handle of git
